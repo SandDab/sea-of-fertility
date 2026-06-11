@@ -13,7 +13,7 @@ const MAP_CONFIG = {
 // Tile layer: Stamen Watercolor (via Stadia Maps) — painterly, hand-drawn
 // look reminiscent of Edo-period road maps. Stadia allows unauthenticated
 // requests from localhost, which is how this site is served.
-const TILE_URL = 'https://tiles.stadiamaps.com/tiles/stamen_watercolor/{z}/{x}/{y}.jpg';
+const TILE_URL = 'https://tiles.stadiamaps.com/tiles/stamen_watercolor/{z}/{x}/{y}.jpg?api_key=458ee38f-d159-4454-8a99-1d4840c52447';
 const TILE_ATTR = '&copy; <a href="https://stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://stamen.com/" target="_blank">Stamen Design</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors';
 
 // ── Initialise map ──────────────────────────────────────────
