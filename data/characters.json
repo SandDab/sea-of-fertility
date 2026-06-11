@@ -1,0 +1,55 @@
+{
+  "_comment": "Each character has a path: an ordered array of POI ids from pois.json tracing their journey across the tetralogy. color is used for the path line and marker.",
+  "characters": [
+    {
+      "id": "kiyoaki",
+      "name": "Kiyoaki Matsugae",
+      "name_ja": "松枝清顕",
+      "color": "#a02820",
+      "path": [
+        "matsugae-mansion",
+        "gakushuin",
+        "ayakura-residence",
+        "hamarikyu",
+        "nanzenji-kyoto",
+        "nara",
+        "gesshuji"
+      ]
+    },
+    {
+      "id": "honda",
+      "name": "Shigekuni Honda",
+      "name_ja": "本多繁邦",
+      "color": "#2b3d6b",
+      "path": [
+        "gakushuin",
+        "kamakura",
+        "nara",
+        "osaka-district-court",
+        "kenshindo-dojo",
+        "ise-jingu",
+        "mihonomatsubara",
+        "wat-arun-bangkok",
+        "thai-royal-palace-bangkok",
+        "benares-ganges",
+        "gotemba-villa",
+        "mio-signal-station",
+        "gotemba-villa-decay",
+        "gesshuji-decay"
+      ]
+    },
+    {
+      "id": "isao",
+      "name": "Isao Iinuma",
+      "name_ja": "飯沼勲",
+      "color": "#3e5230",
+      "path": [
+        "iinuma-dojo",
+        "kenshindo-dojo",
+        "imperial-palace-tokyo",
+        "ise-jingu",
+        "mihonomatsubara"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gallery — The Sea of Fertility</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="site-title">
+        The Sea of Fertility
+        <span class="subtitle ja">豊饒の海</span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="map.html">Map</a>
+        <a href="gallery.html" class="active">Gallery</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+
+      <div class="page-hero">
+        <p class="eyebrow">Archive</p>
+        <h1>Gallery</h1>
+        <p class="lead">
+          Period photography, paintings, and literature referenced across the tetralogy. Images pending archival research are shown as placeholders.
+        </p>
+      </div>
+
+      <!-- Filter bar -->
+      <div class="gallery-controls" id="gallery-filter-bar">
+        <!-- Built by gallery.js -->
+      </div>
+
+      <!-- Grid -->
+      <div class="gallery-grid" id="gallery-grid">
+        <p style="color:var(--ash);font-size:0.9rem;">Loading…</p>
+      </div>
+
+      <div class="rule" style="margin-top:3rem;"><span class="rule-mark">◈</span></div>
+      <p style="font-size:0.8rem;color:var(--ash);text-align:center;margin-bottom:3rem;">
+        To add images, edit <code>data/gallery.json</code>. All items require a public domain or attributed source URL.
+      </p>
+
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>A visual companion to Yukio Mishima's <em>Sea of Fertility</em> tetralogy &nbsp;·&nbsp; Local research archive</p>
+    </div>
+  </footer>
+
+  <script src="js/gallery.js"></script>
+
+</body>
+</html>
