@@ -70,13 +70,13 @@
     },
     {
       "id": "gesshuji",
-      "name": "Gesshuji Convent",
+      "name": "Gesshūji Convent",
       "name_ja": "月修寺",
       "book": "spring-snow",
       "lat": 34.722,
       "lng": 135.785,
       "type": "shrine",
-      "description": "A fictional Rinzai Buddhist convent set in the hills above Nara. Relevant to: Spring Snow."
+      "description": "A fictional Rinzai Buddhist convent set in the hills above Nara. Relevant to: Spring Snow / The Decay of the Angel."
     },
     {
       "id": "nara",
@@ -297,16 +297,6 @@
       "lng": 138.9329,
       "type": "residence",
       "description": "Gotemba -- on the southeastern slope of Mount Fuji in Shizuoka Prefecture. Relevant to: The Decay of the Angel."
-    },
-    {
-      "id": "gesshuji-decay",
-      "name": "Gesshūji Convent, Final Visit",
-      "name_ja": "月修寺（最終訪問）",
-      "book": "decay-of-the-angel",
-      "lat": 34.722,
-      "lng": 135.785,
-      "type": "shrine",
-      "description": "Gesshuji -- the fictional Rinzai convent in the hills above Nara. Relevant to: The Decay of the Angel."
     },
     {
       "id": "shibuya-toru-apartment",
