@@ -638,6 +638,72 @@
     },
 
     {
+      "id": "peacock-gold-sutra",
+      "book": "temple-of-dawn",
+      "category": "literature",
+      "title": "Mahāmayūrī Vidyārājñī Sūtra (Peacock Gold Sutra)",
+      "date": "Tang dynasty, 7th–8th c. CE",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:An_Upanishad_embedded_in_Sama_Veda,_Sanskrit_manuscript_in_Thrissur_Hindu_monastery,_Malayalam_script_-_1.jpg",
+      "image_url": "",
+      "credit": "Buddhist scripture — public domain",
+      "description": "A protective Mahayana text centred on Mahāmayūrī — the Great Peacock Wisdom Queen, four-armed, seated on a peacock. Honda reads it as part of his investigation into karmic protection and reincarnation. The sutra's central parable: a golden peacock king who loses his protection through forgetfulness and is captured by hunters — an allegory for Honda's own lapse into voyeurism.",
+      "location_ref": ""
+    },
+    {
+      "id": "laws-of-manu",
+      "book": "temple-of-dawn",
+      "category": "literature",
+      "title": "Laws of Manu — Manusmṛti",
+      "date": "c. 2nd century BCE – 3rd century CE",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:1407_CE,_Manava-nyaya-sastra-tika_Hindu_law_text_and_commentary,_palm_leaf_manuscript,_Sanskrit,_Bhujimol_script,_Malla_kingdom.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1407_CE,_Manava-nyaya-sastra-tika_Hindu_law_text_and_commentary,_palm_leaf_manuscript,_Sanskrit,_Bhujimol_script,_Malla_kingdom.jpg",
+      "credit": "Public domain / Wikimedia Commons",
+      "description": "The foundational Sanskrit text of Hindu dharma — caste, karma, cosmology, and the ordering of lives across rebirths. Honda works through it alongside Buddhist texts to map the Hindu theory of transmigration against the Theravāda framework he encountered in Thailand. The two systems converge on the fact of rebirth but diverge sharply on whether anything substantial survives the crossing.",
+      "location_ref": ""
+    },
+    {
+      "id": "questions-of-king-milinda",
+      "book": "temple-of-dawn",
+      "category": "literature",
+      "title": "The Questions of King Milinda — Milindapañha",
+      "date": "c. 1st–2nd century CE",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Vedas_palm_leaf_manuscript,_Tamil_Grantha_Script,_Sanskrit,_Tamil_Nadu.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vedas_palm_leaf_manuscript,_Tamil_Grantha_Script,_Sanskrit,_Tamil_Nadu.jpg",
+      "credit": "Public domain / Wikimedia Commons",
+      "description": "A Theravāda text recording exchanges between the Greek king Menander (Milinda) and the monk Nāgasena on whether a continuous self transmigrates or only a stream of moments. The philosophical core of Honda's obsession. Nāgasena's lamp-flame analogy — one flame lighting another, neither identical nor wholly separate — is the closest the tradition comes to answering him.",
+      "location_ref": ""
+    },
+    {
+      "id": "campanella-city-of-the-sun",
+      "book": "temple-of-dawn",
+      "category": "literature",
+      "title": "The City of the Sun — Tommaso Campanella",
+      "date": "Written 1602, published 1623",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Campanellae_Civitas_Solis.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Campanellae_Civitas_Solis.jpg",
+      "credit": "Public domain / Wikimedia Commons",
+      "description": "A perfect city organised around solar worship, communal rational order, and the elimination of private desire — written by Campanella while imprisoned by the Inquisition. Honda reads it as a counterpoint to everything his life has become: where Campanella's citizens are arranged in concentric circles of pure reason, Honda is crouched at a peephole in the wall of his own villa in Minami Daira.",
+      "location_ref": ""
+    },
+    {
+      "id": "carracci-almsgiving-st-rocco",
+      "book": "temple-of-dawn",
+      "category": "painting",
+      "title": "Almsgiving of St. Rocco — Annibale Carracci",
+      "date": "Commissioned 1587–88, completed 1595",
+      "source": "Wikimedia Commons (Gemäldegalerie Alte Meister, Dresden)",
+      "url": "https://commons.wikimedia.org/wiki/File:Elemosina_di_san_Rocco_-_Annibale_Carracci.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elemosina_di_san_Rocco_-_Annibale_Carracci.jpg",
+      "credit": "Annibale Carracci, 1595 / public domain",
+      "description": "St. Roch distributes coins to plague victims on the steps below him — the saint present in the suffering, touching it. Honda references this painting as an image of charity he cannot enact: he watches, observes, and occasionally distributes money, but never enters the suffering he surveys. The painting is the indictment.",
+      "location_ref": ""
+    },
+
+    {
       "id": "genji-album-illustrations-edo",
       "book": "spring-snow",
       "category": "literature",
