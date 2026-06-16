@@ -678,15 +678,37 @@ a:hover { color: var(--vermillion); border-color: var(--vermillion); }
    RESPONSIVE
    ========================================================= */
 @media (max-width: 768px) {
+  body.map-page {
+    overflow: auto;
+  }
+  body.map-page main {
+    height: auto;
+  }
   .map-layout {
     grid-template-columns: 1fr;
+    grid-template-rows: auto 60vh;
     height: auto;
   }
   .map-sidebar {
     border-right: none;
     border-bottom: var(--border);
-    max-height: 260px;
+    max-height: 45vh;
+    overflow-y: auto;
   }
-  #map { height: 60vh; }
+  #map {
+    height: 60vh;
+    width: 100%;
+  }
   .gallery-grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
+}
+
+@media (max-width: 480px) {
+  html { font-size: 15px; }
+  .site-header .container { height: auto; flex-wrap: wrap; padding: 0.6rem 1rem; }
+  .site-nav { width: 100%; justify-content: space-between; }
+  .site-nav a { padding: 0.5rem 0.8rem; flex: 1; justify-content: center; }
+  .map-sidebar { padding: 1rem; gap: 1rem; }
+  #map { height: 50vh; }
+  .map-layout { grid-template-rows: auto 50vh; }
+  .leaflet-popup-content { min-width: 180px !important; max-width: 240px !important; }
 }

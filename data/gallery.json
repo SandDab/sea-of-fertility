@@ -106,11 +106,11 @@
       "category": "photography",
       "title": "Five-story pagoda and Sarusawa Pond, Nara",
       "date": "c. 1910s",
-      "source": "Wikimedia Commons (KITLV / Leiden)",
-      "url": "https://commons.wikimedia.org/wiki/File:Pagoda_front._Sarusawa-pond,_Nara.,_KITLV_1404310.tiff",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pagoda_front._Sarusawa-pond,_Nara.,_KITLV_1404310.tiff",
-      "credit": "KITLV / Leiden University Libraries — public domain",
-      "description": "Kōfukuji's five-story pagoda mirrored in Sarusawa Pond — the classic Nara vista near where Kiyoaki travels in his final illness in Spring Snow.",
+      "source": "Wikimedia Commons (NYPL)",
+      "url": "https://commons.wikimedia.org/wiki/File:Sarusawa_Pond,_Nara_(NYPL_Hades-2360352-4044151).jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarusawa_Pond,_Nara_(NYPL_Hades-2360352-4044151).jpg",
+      "credit": "New York Public Library — public domain",
+      "description": "Kōfukuji's five-story pagoda reflected in Sarusawa Pond — the classic Nara vista.",
       "location_ref": "nara"
     },
     {
@@ -138,19 +138,6 @@
       "credit": "Daderot / CC0 public domain",
       "description": "A raked garden at Nanzenji, the Kyoto temple complex near the settings of Kiyoaki and Satoko's clandestine meetings in Spring Snow.",
       "location_ref": "nanzenji-kyoto"
-    },
-    {
-      "id": "grand-shrine-ise-1910s",
-      "book": "runaway-horses",
-      "category": "photography",
-      "title": "Grand Shrine of Ise",
-      "date": "1910–1919",
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Grand_Shrine_of_Ise._Photography,_1910-1919.jpg",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Shrine_of_Ise._Photography,_1910-1919.jpg",
-      "credit": "Unknown / public domain",
-      "description": "Pre-war photograph of Ise Jingū, the supreme Shinto shrine to Amaterasu. Isao's pilgrimage here is the spiritual climax of his ideological formation in Runaway Horses.",
-      "location_ref": "ise-jingu"
     },
     {
       "id": "ise-ogawa-1914",
@@ -241,20 +228,7 @@
       "url": "https://www.loc.gov/item/2004666330/",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Suruga_miho_no_matsubara_-_Hiroshige-ga._LCCN2004666330.jpg",
       "credit": "Utagawa Hiroshige, 1858 / Library of Congress — public domain",
-      "description": "Hiroshige's woodblock view of the Miho pine grove on Suruga Bay with Mount Fuji beyond — the coastal landscape where Runaway Horses reaches its final, devastating resolution.",
-      "location_ref": "mihonomatsubara"
-    },
-    {
-      "id": "miho-pine-grove-met",
-      "book": "runaway-horses",
-      "category": "painting",
-      "title": "Pine Groves of Miho in Suruga Province (alternate impression, high resolution)",
-      "date": "1858",
-      "source": "Wikimedia Commons (Metropolitan Museum of Art)",
-      "url": "https://commons.wikimedia.org/wiki/File:%E5%AF%8C%E5%A3%AB%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E9%A7%BF%E6%B2%B3%E4%B8%89%E4%BF%9D%E3%81%AE%E6%9D%BE%E5%8E%9F-Pine_Groves_of_Miho_in_Suruga_Province_MET_DP120501.jpg",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%AF%8C%E5%A3%AB%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E9%A7%BF%E6%B2%B3%E4%B8%89%E4%BF%9D%E3%81%AE%E6%9D%BE%E5%8E%9F-Pine_Groves_of_Miho_in_Suruga_Province_MET_DP120501.jpg",
-      "credit": "Utagawa Hiroshige, 1858 / The Met Open Access — CC0 public domain",
-      "description": "A high-resolution Met Open Access impression of Hiroshige's Miho pine grove — the pine-fringed coast on Suruga Bay with views of Mount Fuji that closes Runaway Horses.",
+      "description": "Hiroshige's woodblock print of the Miho pine grove on Suruga Bay with Mount Fuji beyond, from his Thirty-six Views series.",
       "location_ref": "mihonomatsubara"
     },
     {
@@ -319,7 +293,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Uemura_Sh%C5%8Den_-_Flower_Basket.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Uemura_Sh%C5%8Den_-_Flower_Basket.jpg",
       "credit": "Uemura Shōen (1875–1949), 1915 / public domain",
-      "description": "A Taishō-era nihonga masterpiece, painted in 1915 — exactly the period and refined feminine sensibility of Spring Snow. Very high resolution.",
+      "description": "Nihonga painting by Uemura Shōen, 1915. A woman in formal dress carries a flower basket. Shōen was one of the leading painters of the Taishō era, known for her portraits of women in classical Japanese settings.",
       "location_ref": ""
     },
     {
@@ -332,7 +306,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Shoen_Uemura_-_Firefly.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shoen_Uemura_-_Firefly.jpg",
       "credit": "Uemura Shōen (1875–1949), 1913 / public domain",
-      "description": "Painted in 1913 — the precise year Spring Snow is set — 'Firefly' captures a woman amid a mosquito net in warm dusk, mirroring the novel's languorous, sensual atmosphere.",
+      "description": "Nihonga painting by Uemura Shōen, 1913. A woman in summer dress sits beneath a hanging mosquito net in the warm dusk, holding a fan. One of Shōen's celebrated series of women in quiet domestic interiors.",
       "location_ref": ""
     },
     {
@@ -441,42 +415,30 @@
       "location_ref": "thai-royal-palace-bangkok"
     },
     {
-      "id": "bangkok-floating-market-1963",
+    {
+      "id": "bangkok-life-on-klongs",
       "book": "temple-of-dawn",
       "category": "photography",
-      "title": "Floating market on a Bangkok khlong",
-      "date": "1963",
+      "title": "Life on the Klongs (canals) of Bangkok",
+      "date": "early 20th c.",
       "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Floating_market_in_khlong_in_Bangkok_1963_08.jpg",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Floating_market_in_khlong_in_Bangkok_1963_08.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Life_on_the_Klongs,_or_canals,_of_Bangkok.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Life_on_the_Klongs,_or_canals,_of_Bangkok.jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "Vendors sell produce from boats crowded along a canal — the floating markets that defined everyday commerce in Bangkok for generations, much as Honda would have seen during his stay.",
+      "description": "Laden cargo boats and wooden houses lining a Bangkok canal. The city's network of klongs functioned as streets, markets, and thoroughfares — Bangkok earned the name 'Venice of the East' from Western visitors who found the same watery, mercantile logic at work.",
       "location_ref": "wat-arun-bangkok"
     },
     {
-      "id": "bangkok-street-scene-1963",
+      "id": "bangkok-khlong-somdet-1907",
       "book": "temple-of-dawn",
       "category": "photography",
-      "title": "Street scene, Bangkok",
-      "date": "1963",
+      "title": "Khlong Somdet, Bangkok",
+      "date": "1907",
       "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Bangkok_street_scene_1963.jpg",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bangkok_street_scene_1963.jpg",
-      "credit": "Public domain / Wikimedia Commons",
-      "description": "Daily street life in mid-century Bangkok — the bustling, humid, mercantile city Honda navigates between temple visits and royal audiences in The Temple of Dawn.",
-      "location_ref": "wat-arun-bangkok"
-    },
-    {
-      "id": "bangkok-chinatown-flower-vendor",
-      "book": "temple-of-dawn",
-      "category": "photography",
-      "title": "Flower vendor, Chinatown, Bangkok",
-      "date": "modern photo",
-      "source": "Wikimedia Commons",
-      "url": "https://commons.wikimedia.org/wiki/File:Street_Scene_with_Man_and_Flowers_-_Chinatown_-_Bangkok_-_Thailand_(33903374053).jpg",
-      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Street_Scene_with_Man_and_Flowers_-_Chinatown_-_Bangkok_-_Thailand_(33903374053).jpg",
-      "credit": "CC BY-SA 2.0 / Wikimedia Commons",
-      "description": "Bangkok's Chinatown district, a maze of market stalls and street vendors that has changed little in character over the decades — the kind of dense urban texture surrounding the temples Honda visits.",
+      "url": "https://commons.wikimedia.org/wiki/File:Khlong_Somdet_in_Bangkok_Photo_1907_J_Antonio.png",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Khlong_Somdet_in_Bangkok_Photo_1907_J_Antonio.png",
+      "credit": "J. Antonio, 1907 / public domain",
+      "description": "A 1907 photograph of Khlong Somdet — one of Bangkok's main commercial canals, lined with houses on stilts and boat traffic. The canal system was the primary means of transport and trade in the city well into the twentieth century.",
       "location_ref": "wat-arun-bangkok"
     },
     {
