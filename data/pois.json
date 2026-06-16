@@ -36,7 +36,7 @@
       "lat": 35.6577,
       "lng": 139.7373,
       "type": "residence",
-      "description": "The grand Meiji-era mansion of the Matsugae marquis family in Azabu, blending Western architecture with Japanese tradition. Kiyoaki grows up here surrounded by wealth and a sense of displacement from both worlds."
+      "description": "The grand Meiji-era mansion of the Matsugae marquis family in Azabu, Tokyo -- a blend of Western architecture and Japanese tradition characteristic of wealthy families of the era. Relevant to: Spring Snow."
     },
     {
       "id": "ayakura-residence",
@@ -46,7 +46,7 @@
       "lat": 35.7117,
       "lng": 139.7614,
       "type": "residence",
-      "description": "Home of Count Ayakura and his daughter Satoko. A more traditional aristocratic household, steeped in Heian court culture and classical refinement, in contrast to the Matsugae's Westernized ostentation."
+      "description": "Home of the Ayakura family -- a traditional aristocratic household in Tokyo steeped in Heian court culture and classical refinement. Relevant to: Spring Snow."
     },
     {
       "id": "gakushuin",
@@ -56,7 +56,7 @@
       "lat": 35.7261,
       "lng": 139.7083,
       "type": "institution",
-      "description": "The school in Mejiro where Kiyoaki Matsugae and Shigekuni Honda study together. Reserved for sons of the aristocracy. Their friendship begins and deepens here."
+      "description": "The Gakushuin (Peers' School) in Mejiro, Tokyo -- an elite institution reserved for children of the aristocracy. Relevant to: Spring Snow."
     },
     {
       "id": "kamakura",
@@ -66,17 +66,17 @@
       "lat": 35.3193,
       "lng": 139.5467,
       "type": "natural",
-      "description": "Honda and Kiyoaki visit Kamakura together. Honda returns here at the novel's end, watching the sea and reflecting on loss and impermanence — the first intimation of the series' recurring themes of reincarnation."
+      "description": "The coastal city of Kamakura, former seat of the medieval shogunate and home to Kotokuin (the Great Buddha), Engakuji, and numerous Zen temples. Relevant to: Spring Snow."
     },
     {
       "id": "gesshuji",
       "name": "Gesshuji Convent",
       "name_ja": "月修寺",
       "book": "spring-snow",
-      "lat": 34.7220,
-      "lng": 135.7850,
+      "lat": 34.722,
+      "lng": 135.785,
       "type": "shrine",
-      "description": "A fictional Rinzai Buddhist convent set in the hills above Nara, where Satoko retreats and takes the tonsure. Honda's repeated attempts to see her here — always refused — form the novel's devastating final movement."
+      "description": "A fictional Rinzai Buddhist convent set in the hills above Nara. Relevant to: Spring Snow."
     },
     {
       "id": "nara",
@@ -86,7 +86,7 @@
       "lat": 34.6851,
       "lng": 135.8048,
       "type": "district",
-      "description": "Ancient former capital, setting for Kiyoaki and Satoko's final meetings and Satoko's eventual withdrawal from the world. Honda visits repeatedly, unable to gain entry to the convent."
+      "description": "Nara -- the ancient capital of Japan from 710 to 784 CE, home to Todaiji, Kofukuji, Kasuga Grand Shrine, and the deer park of Nara Park. Relevant to: Spring Snow."
     },
     {
       "id": "nanzenji-kyoto",
@@ -96,7 +96,7 @@
       "lat": 35.0116,
       "lng": 135.7882,
       "type": "shrine",
-      "description": "The Higashiyama hills and the Nanzenji temple district provide the backdrop for Kiyoaki and Satoko's clandestine meetings, arranged through the Abbess's connections. The atmosphere is one of autumn beauty and forbidden longing."
+      "description": "Nanzenji -- a major Rinzai Zen temple complex in Kyoto's Higashiyama hills, founded in the 13th century on the site of a retired emperor's villa. Relevant to: Spring Snow."
     },
     {
       "id": "hamarikyu",
@@ -104,9 +104,9 @@
       "name_ja": "浜離宮・新橋",
       "book": "spring-snow",
       "lat": 35.6598,
-      "lng": 139.7620,
+      "lng": 139.762,
       "type": "district",
-      "description": "The fashionable Shimbashi district and the Hamarikyu gardens, part of the social and urban backdrop of Meiji-era Tokyo aristocratic life depicted in Spring Snow."
+      "description": "The Hamarikyu gardens and the Shimbashi district -- part of the social and entertainment landscape of Meiji-era Tokyo. Relevant to: Spring Snow."
     },
     {
       "id": "osaka-district-court",
@@ -116,27 +116,27 @@
       "lat": 34.6937,
       "lng": 135.5023,
       "type": "institution",
-      "description": "Honda, now a judge in his thirties, is posted at the Osaka District Court. It is here that he attends a kendo tournament and first encounters Isao Iinuma — a young man whose resemblance to Kiyoaki is uncanny."
+      "description": "The Osaka District Court -- part of the Western-style judicial system established during the Meiji era. Relevant to: Runaway Horses."
     },
     {
       "id": "iinuma-dojo",
       "name": "Iinuma Dojo",
       "name_ja": "飯沼道場",
       "book": "runaway-horses",
-      "lat": 34.6780,
-      "lng": 135.4950,
+      "lat": 34.678,
+      "lng": 135.495,
       "type": "institution",
-      "description": "The kendo dojo run by Iinuma, once the Matsugae family's stern retainer and Kiyoaki's tutor. Now a nationalist ideologue. His son Isao trains here, steeped in the purity doctrine of the Divine Wind league."
+      "description": "A kendo dojo in Tokyo. Relevant to: Runaway Horses."
     },
     {
       "id": "kenshindo-dojo",
       "name": "Kenshindō Dojo",
       "name_ja": "建心堂道場",
       "book": "runaway-horses",
-      "lat": 34.6850,
-      "lng": 135.5100,
+      "lat": 34.685,
+      "lng": 135.51,
       "type": "institution",
-      "description": "The tournament venue where Honda first watches Isao compete. The moment of recognition — that Isao bears the same birthmarks as Kiyoaki — launches Honda's obsessive inquiry into reincarnation."
+      "description": "A kendo tournament venue in Tokyo. Relevant to: Runaway Horses."
     },
     {
       "id": "ise-jingu",
@@ -146,7 +146,7 @@
       "lat": 34.4553,
       "lng": 136.7257,
       "type": "shrine",
-      "description": "The holiest site in Shinto, dedicated to Amaterasu. Isao's pilgrimage here is the spiritual climax of his ideological formation. The shrine's forest and river — absolute, eternal — intensify his conviction of divine mission."
+      "description": "Ise Jingu -- the holiest site in the Shinto religion, located in Mie Prefecture. The inner shrine (Naiku) is dedicated to Amaterasu, the sun goddess. The shrine buildings are demolished and rebuilt every 20 years in a ritual called shikinen sengu. Relevant to: Runaway Horses."
     },
     {
       "id": "mount-hiei",
@@ -156,7 +156,7 @@
       "lat": 35.0614,
       "lng": 135.8393,
       "type": "natural",
-      "description": "Sacred mountain on the border of Kyoto and Shiga prefectures, seat of Enryakuji temple. Referenced in the nativist and Buddhist strands of Runaway Horses as a node of spiritual-national heritage."
+      "description": "Mount Hiei -- a sacred mountain on the border of Kyoto and Shiga prefectures, seat of Enryakuji temple, the headquarters of the Tendai sect of Buddhism, founded by Saicho in 788. Relevant to: Runaway Horses."
     },
     {
       "id": "imperial-palace-tokyo",
@@ -166,7 +166,7 @@
       "lat": 35.6852,
       "lng": 139.7528,
       "type": "shrine",
-      "description": "The symbolic center of Isao's ideology. The Palace and its grounds represent the divine sovereignty the League of the Divine Wind seeks to restore. The assassination plot against financial oligarchs draws its justification from loyalty to the Emperor."
+      "description": "The Imperial Palace in central Tokyo -- the primary residence of the Emperor of Japan, located on the grounds of the former Edo Castle. Relevant to: Runaway Horses."
     },
     {
       "id": "marunouchi",
@@ -174,9 +174,9 @@
       "name_ja": "丸の内",
       "book": "runaway-horses",
       "lat": 35.6814,
-      "lng": 139.7670,
+      "lng": 139.767,
       "type": "district",
-      "description": "Tokyo's financial and commercial heart, including the Marunouchi Building (Marubiru, 1923). The industrial and banking interests based here are the targets of Isao's group — symbols of a Japan corrupted by capital and Western influence."
+      "description": "Marunouchi -- Tokyo's central business and financial district, adjacent to Tokyo Station. The Marunouchi Building (Marubiru), opened 1923, was one of Japan's first large-scale office buildings. Relevant to: Runaway Horses."
     },
     {
       "id": "ginza",
@@ -186,7 +186,7 @@
       "lat": 35.6717,
       "lng": 139.7649,
       "type": "district",
-      "description": "Tokyo's most Westernized commercial district in the 1930s — department stores, cafés, Western fashions. For Isao's nationalist circle, Ginza represents the decadence they have sworn to purge."
+      "description": "The Ginza district -- Tokyo's most Westernized commercial boulevard, known in the Meiji and Taisho eras for its brick buildings, department stores, and Western fashions. Relevant to: Spring Snow / Runaway Horses."
     },
     {
       "id": "mihonomatsubara",
@@ -196,9 +196,8 @@
       "lat": 35.0167,
       "lng": 138.5167,
       "type": "natural",
-      "description": "The pine-fringed coast on Suruga Bay near Shimizu, with views of Mount Fuji. Isao retreats here for the novel's final act. The sea and sky at dawn carry the novel's closing image of transcendence and self-destruction."
+      "description": "Miho no Matsubara -- a pine-fringed coastal stretch on Suruga Bay near Shimizu, with views of Mount Fuji across the water. A site of classical poetic significance, listed as one of Japan's Three Views. Relevant to: Runaway Horses."
     },
-
     {
       "id": "wat-arun-bangkok",
       "name": "Wat Arun (Temple of Dawn)",
@@ -207,17 +206,17 @@
       "lat": 13.7437,
       "lng": 100.4888,
       "type": "shrine",
-      "description": "The riverside Bangkok temple that gives the novel its title. Honda, now in his late forties and travelling in Thailand, visits the temple and encounters the young Princess Ying Chan, who claims — to the household's alarm — to remember a past life as a Japanese man."
+      "description": "Wat Arun (Temple of Dawn) on the west bank of the Chao Phraya River in Bangkok, with its distinctive porcelain-encrusted central prang rising 70 metres. One of Bangkok's most recognizable landmarks. Relevant to: The Temple of Dawn."
     },
     {
       "id": "thai-royal-palace-bangkok",
       "name": "Thai Royal Palace, Bangkok",
       "name_ja": "タイ王宮",
       "book": "temple-of-dawn",
-      "lat": 13.7500,
+      "lat": 13.75,
       "lng": 100.4914,
       "type": "residence",
-      "description": "Honda is received at the Thai court while on his diplomatic and legal travels. Princess Ying Chan, a young royal cousin, is the latest figure Honda suspects of carrying Kiyoaki and Isao's reincarnated soul, identifiable by the same three moles."
+      "description": "The Grand Palace in Bangkok -- the official royal residence of the Thai kings from 1782, containing throne halls, government buildings, and Wat Phra Kaew within its walled compound. Relevant to: The Temple of Dawn."
     },
     {
       "id": "benares-ganges",
@@ -227,7 +226,7 @@
       "lat": 25.3176,
       "lng": 83.0064,
       "type": "natural",
-      "description": "On a side trip to India, Honda witnesses the burning ghats and bathers along the Ganges at dawn — a vision of cyclical death, decay, and rebirth that crystallizes the novel's meditation on the Buddhist doctrine of transmigration."
+      "description": "Varanasi (Benares) on the Ganges in northern India -- one of Hinduism's holiest cities, where the ghats along the riverbank serve as sites of pilgrimage, ritual bathing, and cremation. Relevant to: The Temple of Dawn."
     },
     {
       "id": "gotemba-villa",
@@ -237,7 +236,7 @@
       "lat": 35.3069,
       "lng": 138.9329,
       "type": "residence",
-      "description": "The country house Honda builds in the shadow of Mount Fuji. Years later, the now-grown Ying Chan visits during a stay in Japan; Honda's obsessive voyeurism here marks the novel's descent into moral corrosion. The villa recurs as the central setting of The Decay of the Angel."
+      "description": "Gotemba -- a city on the southeastern slopes of Mount Fuji in Shizuoka Prefecture, with a direct view of the mountain. Relevant to: The Temple of Dawn / The Decay of the Angel."
     },
     {
       "id": "karuizawa",
@@ -247,9 +246,8 @@
       "lat": 36.3487,
       "lng": 138.6022,
       "type": "district",
-      "description": "The fashionable mountain resort town where Honda's social circle summers. Ying Chan, studying in Japan, stays nearby — bringing Honda's reincarnation obsession back to Japanese soil after his travels in Thailand and India."
+      "description": "Karuizawa -- a mountain resort town in Nagano Prefecture, popular as a summer retreat for Tokyo's wealthy since the Meiji era. Relevant to: The Temple of Dawn."
     },
-
     {
       "id": "mio-signal-station",
       "name": "Mio Signal Station, Shimizu",
@@ -258,7 +256,7 @@
       "lat": 35.0181,
       "lng": 138.5189,
       "type": "institution",
-      "description": "The lonely lighthouse-keeper's signal station near Miho, overlooking the same Suruga Bay coastline where Isao died. Here the elderly Honda discovers Tōru Yasunaga, an orphaned sixteen-year-old he comes to believe is the next reincarnation."
+      "description": "The Mio Signal Station -- a maritime signal station near Miho no Matsubara on Suruga Bay, overlooking the coast below Mount Fuji. Relevant to: The Decay of the Angel."
     },
     {
       "id": "gotemba-villa-decay",
@@ -268,17 +266,17 @@
       "lat": 35.3069,
       "lng": 138.9329,
       "type": "residence",
-      "description": "Honda adopts Tōru and brings him to live at the Gotemba villa, grooming him as his heir and the latest vessel of the soul he has tracked across three lifetimes. The household's slow unraveling — Tōru's cruelty, Honda's decline — plays out here."
+      "description": "Gotemba -- on the southeastern slope of Mount Fuji in Shizuoka Prefecture. Relevant to: The Decay of the Angel."
     },
     {
       "id": "gesshuji-decay",
       "name": "Gesshūji Convent, Final Visit",
       "name_ja": "月修寺（最終訪問）",
       "book": "decay-of-the-angel",
-      "lat": 34.7220,
-      "lng": 135.7850,
+      "lat": 34.722,
+      "lng": 135.785,
       "type": "shrine",
-      "description": "An aged Honda makes a final pilgrimage to the convent to see the now-elderly Abbess — once Satoko. Her quiet, devastating response to his life's obsession closes the tetralogy, casting the entire reincarnation narrative into doubt."
+      "description": "Gesshuji -- the fictional Rinzai convent in the hills above Nara. Relevant to: The Decay of the Angel."
     },
     {
       "id": "shibuya-toru-apartment",
@@ -288,7 +286,7 @@
       "lat": 35.6595,
       "lng": 139.7005,
       "type": "residence",
-      "description": "After his falling-out with Honda, Tōru lives alone in Tokyo, increasingly isolated and embittered. His attempted suicide — drinking a chemical that blinds rather than kills him — marks the novel's cruelest turn."
+      "description": "Shibuya -- a major commercial and residential district in central Tokyo. Relevant to: The Decay of the Angel."
     }
   ]
 }

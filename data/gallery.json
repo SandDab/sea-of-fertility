@@ -2,13 +2,20 @@
   "_comment": "Edit this file to add gallery items. Each item: id, book, category (photography|painting|literature|object), title, date, source, url (page URL), image_url (direct .jpg/.png for <img> tag), credit, description, location_ref (POI id or empty). Notes: Yasaka Pagoda item is CC-BY 2.0 (requires attribution). Osaka 1930s scans are low-resolution (~400–530px). Literature items are document pages — use 'url' to link out, no image_url.",
   "version": "1.1",
   "categories": {
-    "photography": { "label": "Archive Photography" },
-    "painting":    { "label": "Paintings & Prints" },
-    "literature":  { "label": "Referenced Literature" },
-    "object":      { "label": "Objects & Ephemera" }
+    "photography": {
+      "label": "Archive Photography"
+    },
+    "painting": {
+      "label": "Paintings & Prints"
+    },
+    "literature": {
+      "label": "Referenced Literature"
+    },
+    "object": {
+      "label": "Objects & Ephemera"
+    }
   },
   "items": [
-
     {
       "id": "marunouchi-london-street-1920s",
       "book": "runaway-horses",
@@ -19,7 +26,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Marunouchi_London_Street_1920s.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marunouchi_London_Street_1920s.jpg",
       "credit": "Unknown photographer / public domain",
-      "description": "Babasaki Street's row of Western brick blocks nicknamed 'London Street.' The Marunouchi business district is the heart of corporate Tokyo where the targets of Isao's assassination plot are headquartered.",
+      "description": "Babasaki Street's row of Western brick office blocks nicknamed 'London Street' -- the commercial and financial heart of Taisho-era Tokyo. Relevant to: Runaway Horses.",
       "location_ref": "marunouchi"
     },
     {
@@ -32,7 +39,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Marunouchi_after_the_Great_Kanto_Earthquake.JPG",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marunouchi_after_the_Great_Kanto_Earthquake.JPG",
       "credit": "Unknown / public domain — scan from Mainichi 'Shōwa History Vol. 4'",
-      "description": "Marunouchi in the immediate aftermath of the 1923 earthquake. The Marunouchi Building (Marubiru) opened the same year; the district rebuilds into the financial center targeted in Runaway Horses a decade later.",
+      "description": "Marunouchi in the immediate aftermath of the 1923 Great Kanto Earthquake. The Marunouchi Building (Marubiru), one of Japan's first large-scale office buildings, opened the same year. Relevant to: Runaway Horses.",
       "location_ref": "marunouchi"
     },
     {
@@ -45,7 +52,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Tokyo_station_Marunouchi_building_entrance_hall_1914.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tokyo_station_Marunouchi_building_entrance_hall_1914.jpg",
       "credit": "Unknown / public domain",
-      "description": "The grand red-brick Tokyo Station at the foot of Marunouchi, completed 1914 — the gateway to the capital's financial district in the 1932 world of Runaway Horses.",
+      "description": "The red-brick Tokyo Station at the foot of Marunouchi, completed 1914 -- the gateway to the capital's central business district. Relevant to: Runaway Horses.",
       "location_ref": "marunouchi"
     },
     {
@@ -58,7 +65,7 @@
       "url": "https://www.loc.gov/pictures/item/00650288/",
       "image_url": "https://cdn.loc.gov/service/pnp/stereo/1s30000/1s31000/1s31000/1s31076v.jpg",
       "credit": "Library of Congress, Prints & Photographs Division — no known restrictions",
-      "description": "An electrified-streetcar view of the Ginza in late-Meiji Tokyo, capturing the modernizing capital that frames the aristocratic world of Spring Snow.",
+      "description": "A stereocard view of the Ginza in late-Meiji Tokyo -- the city's most Westernized commercial boulevard, known for its brick buildings and electric streetcars. Relevant to: Spring Snow.",
       "location_ref": "ginza"
     },
     {
@@ -71,7 +78,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Crowded_Tokyo_Street_1905.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crowded_Tokyo_Street_1905.jpg",
       "credit": "Underwood & Underwood / Library of Congress — public domain",
-      "description": "A dense Meiji Tokyo street scene during a victory celebration, evoking the bustling capital outside the secluded aristocratic estates of Spring Snow.",
+      "description": "A Meiji Tokyo street crowded for a public celebration, photographed around 1905. Relevant to: Spring Snow.",
       "location_ref": ""
     },
     {
@@ -84,7 +91,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Gakushuin_girl%27s_school_Yasukuni_1938-10.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gakushuin_girl's_school_Yasukuni_1938-10.jpg",
       "credit": "Unknown / public domain",
-      "description": "Gakushūin, the Peers' School, is where Kiyoaki and Honda study together in Spring Snow. Photo is later than the novel's setting; the institution and its ethos are the same.",
+      "description": "Gakushuin, the Peers' School in Mejiro -- an elite institution reserved for children of the aristocracy, with separate boys' and girls' divisions. The photo is later than the novel's Taisho-era setting; the institution and its atmosphere remained the same. Relevant to: Spring Snow.",
       "location_ref": "gakushuin"
     },
     {
@@ -97,7 +104,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Plate_28_-_Sights_and_scenes_in_fair_Japan,_by_Kazumasa_Ogawa_(1860-1930),_published_in_1914,_from_The_Clark_Digital_Collections_-_p1325coll1_3431_full.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plate_28_-_Sights_and_scenes_in_fair_Japan,_by_Kazumasa_Ogawa_(1860-1930),_published_in_1914,_from_The_Clark_Digital_Collections_-_p1325coll1_3431_full.jpg",
       "credit": "Kazumasa Ogawa (1860–1930), 1914 / public domain",
-      "description": "A 1914 collotype of Nara by master photographer Kazumasa Ogawa, contemporaneous with Spring Snow. Nara and the fictional Gesshūji convent in its hills form the novel's devastating final movement.",
+      "description": "A 1914 collotype of Nara by master photographer Kazumasa Ogawa, made contemporaneously with the novel's Taisho-era setting. Relevant to: Spring Snow.",
       "location_ref": "nara"
     },
     {
@@ -110,7 +117,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Sarusawa_Pond,_Nara_(NYPL_Hades-2360352-4044151).jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarusawa_Pond,_Nara_(NYPL_Hades-2360352-4044151).jpg",
       "credit": "New York Public Library — public domain",
-      "description": "Kōfukuji's five-story pagoda reflected in Sarusawa Pond — the classic Nara vista.",
+      "description": "Kofukuji's five-story pagoda reflected in Sarusawa Pond -- the classic Nara vista. Kofukuji was founded in 710 CE as the family temple of the Fujiwara clan. Relevant to: Spring Snow.",
       "location_ref": "nara"
     },
     {
@@ -123,7 +130,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:H%C5%8Dkan-ji_Yasaka_Pagoda,_Kyoto_(%E6%B3%95%E8%A6%B3%E5%AF%BA_%E5%85%AB%E5%9D%82%E3%81%AE%E5%A1%94,_%E4%BA%AC%E9%83%BD),_circa_1900.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/H%C5%8Dkan-ji_Yasaka_Pagoda,_Kyoto_(%E6%B3%95%E8%A6%B3%E5%AF%BA_%E5%85%AB%E5%9D%82%E3%81%AE%E5%A1%94,_%E4%BA%AC%E9%83%BD),_circa_1900.jpg",
       "credit": "Tekniska museet, CC-BY 2.0 — attribution required",
-      "description": "The Yasaka Pagoda in Kyoto's Higashiyama district, evoking the temple atmosphere near Nanzenji referenced in Spring Snow's Kyoto scenes. Note: CC-BY license, attribution required.",
+      "description": "The Yasaka Pagoda in Kyoto's Higashiyama district -- a five-story pagoda of Hokanji temple, one of the oldest surviving structures in the city. Relevant to: Spring Snow.",
       "location_ref": "nanzenji-kyoto"
     },
     {
@@ -136,7 +143,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Tenjuan_-_Nanzenji_-_IMG_5286.JPG",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tenjuan_-_Nanzenji_-_IMG_5286.JPG",
       "credit": "Daderot / CC0 public domain",
-      "description": "A raked garden at Nanzenji, the Kyoto temple complex near the settings of Kiyoaki and Satoko's clandestine meetings in Spring Snow.",
+      "description": "A raked gravel garden at Nanzenji -- a major Rinzai Zen temple complex in Kyoto's Higashiyama hills, founded in the 13th century. Relevant to: Spring Snow.",
       "location_ref": "nanzenji-kyoto"
     },
     {
@@ -149,7 +156,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Plate_22_-_Sights_and_scenes_in_fair_Japan,_by_Kazumasa_Ogawa_(1860-1930),_published_in_1914,_from_The_Clark_Digital_Collections_-_p1325coll1_3425_full.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plate_22_-_Sights_and_scenes_in_fair_Japan,_by_Kazumasa_Ogawa_(1860-1930),_published_in_1914,_from_The_Clark_Digital_Collections_-_p1325coll1_3425_full.jpg",
       "credit": "Kazumasa Ogawa (1860–1930), 1914 / public domain",
-      "description": "A 1914 collotype capturing the cypress architecture of Ise Jingū — the shrine's forest and river that intensify Isao's conviction of divine mission in Runaway Horses.",
+      "description": "A 1914 collotype by Kazumasa Ogawa capturing the hinoki cypress architecture of Ise Jingu, the holiest site in the Shinto religion, dedicated to Amaterasu, the sun goddess. Relevant to: Runaway Horses.",
       "location_ref": "ise-jingu"
     },
     {
@@ -162,7 +169,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Dotonbori_in_1930s.JPG",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dotonbori_in_1930s.JPG",
       "credit": "Unknown / public domain — from Asahi Shimbun 'Glimpses of Nippon'",
-      "description": "Osaka's Dōtonbori entertainment district in the early Shōwa years — the bustling urban Osaka contemporaneous with the 1932 setting of Runaway Horses. Low-resolution scan.",
+      "description": "Osaka's Dotonbori entertainment district in the early Showa years, known for its canal, theatres, and neon signage. Low-resolution scan. Relevant to: Runaway Horses.",
       "location_ref": "osaka-district-court"
     },
     {
@@ -175,7 +182,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Shinsaibashi-suji_in_1930s.JPG",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shinsaibashi-suji_in_1930s.JPG",
       "credit": "Unknown / public domain — from Asahi Shimbun 'Glimpses of Nippon'",
-      "description": "The Shinsaibashi shopping street in 1930s Osaka. Low-resolution scan.",
+      "description": "The Shinsaibashi shopping arcade in 1930s Osaka -- one of the oldest covered shopping streets in Japan. Low-resolution scan. Relevant to: Runaway Horses.",
       "location_ref": "osaka-district-court"
     },
     {
@@ -188,7 +195,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Jap(anese)_sailors_fencing_LCCN2014699646.jpg",
       "image_url": "https://cdn.loc.gov/service/pnp/ggbain/19700/19715v.jpg",
       "credit": "Bain News Service / Library of Congress — no known restrictions",
-      "description": "Kendo practice in bōgu armor, the martial discipline embodied by Isao Iinuma and his dojo comrades in Runaway Horses.",
+      "description": "Kendo practice in bogu (full armor) -- the protective equipment worn in competitive swordsmanship, including men (helmet), do (chest plate), and kote (gauntlets). Relevant to: Runaway Horses.",
       "location_ref": "iinuma-dojo"
     },
     {
@@ -201,7 +208,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Kendo_boys_1909.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kendo_boys_1909.jpg",
       "credit": "Unknown / public domain",
-      "description": "Young kendoka in full uniform, evoking the youthful martial idealism of Isao and his comrades in Runaway Horses.",
+      "description": "Young kendoka in full practice uniform and armor. Kendo was widely practiced in schools and youth organizations in Meiji and Taisho Japan. Relevant to: Runaway Horses.",
       "location_ref": "kenshindo-dojo"
     },
     {
@@ -214,10 +221,9 @@
       "url": "https://commons.wikimedia.org/wiki/File:Fighting_man_of_japan_kendo_members_of_the_takanawa_fencing_school.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fighting_man_of_japan_kendo_members_of_the_takanawa_fencing_school.jpg",
       "credit": "Public domain — from 'The Fighting Man of Japan'",
-      "description": "A formal portrait of a Tokyo kendo school's members, directly evoking the dojo brotherhood at the center of Runaway Horses.",
+      "description": "A formal portrait of a Tokyo kendo school and its members in the Meiji era. Relevant to: Runaway Horses.",
       "location_ref": "iinuma-dojo"
     },
-
     {
       "id": "hiroshige-miho-no-matsubara-1858",
       "book": "runaway-horses",
@@ -228,7 +234,7 @@
       "url": "https://www.loc.gov/item/2004666330/",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Suruga_miho_no_matsubara_-_Hiroshige-ga._LCCN2004666330.jpg",
       "credit": "Utagawa Hiroshige, 1858 / Library of Congress — public domain",
-      "description": "Hiroshige's woodblock print of the Miho pine grove on Suruga Bay with Mount Fuji beyond, from his Thirty-six Views series.",
+      "description": "Hiroshige's woodblock print of the Miho pine grove on Suruga Bay with Mount Fuji beyond, from his Thirty-six Views of Mount Fuji series, 1858. Relevant to: Runaway Horses.",
       "location_ref": "mihonomatsubara"
     },
     {
@@ -241,7 +247,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Ise-Grand-Shrine-Emperor-Meiji-Sadahide-Utagawa-1869.png",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ise-Grand-Shrine-Emperor-Meiji-Sadahide-Utagawa-1869.png",
       "credit": "Utagawa Sadahide (1807–1873), 1869 / public domain",
-      "description": "The young Emperor Meiji's procession to Ise, fusing imperial reverence and Shinto pilgrimage — the ideology that drives the protagonists of Runaway Horses.",
+      "description": "An 1869 woodblock print depicting the Emperor Meiji's imperial procession to Ise Jingu -- an early Meiji-era ritual fusing imperial ceremony with Shinto observance. Relevant to: Runaway Horses.",
       "location_ref": "ise-jingu"
     },
     {
@@ -254,7 +260,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Genji_emaki_TAKEKAWA.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Genji_emaki_TAKEKAWA.jpg",
       "credit": "Heian court painters, c. 1130 (Tokugawa Art Museum) / public domain",
-      "description": "A section of the 12th-century National Treasure Genji Monogatari Emaki. The Heian courtly aesthetic of the Tale of Genji underlies the elegiac mood of Spring Snow.",
+      "description": "A section of the 12th-century National Treasure Genji Monogatari Emaki -- the oldest extant illustrated handscroll of The Tale of Genji. The painting style, called tsukuri-e, uses layered mineral pigments over ink underdrawing. Relevant to: Spring Snow.",
       "location_ref": "ayakura-residence"
     },
     {
@@ -267,7 +273,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Genji_emaki_HASHIHIME.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Genji_emaki_HASHIHIME.jpg",
       "credit": "Heian court painters, c. 1130 (Tokugawa Art Museum) / public domain",
-      "description": "Courtly interiors and jūnihitoe robes from the earliest extant Genji handscroll — the classical world that informs Kiyoaki and Satoko's refined sensibility.",
+      "description": "Courtly interiors and junihitoe (twelve-layered court robes) from the Genji Monogatari Emaki -- the visual world of Heian aristocratic life. Relevant to: Spring Snow.",
       "location_ref": "ayakura-residence"
     },
     {
@@ -280,7 +286,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Genji_emaki_Yadorigi.JPG",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Genji_emaki_Yadorigi.JPG",
       "credit": "Heian court painters, c. 1130 (Tokugawa Art Museum) / public domain",
-      "description": "High-resolution section of the National Treasure Genji emaki — the touchstone of Heian aristocratic visual culture echoed throughout Spring Snow.",
+      "description": "A high-resolution section of the National Treasure Genji Monogatari Emaki, one of the oldest surviving examples of Japanese narrative painting. Relevant to: Spring Snow.",
       "location_ref": ""
     },
     {
@@ -319,7 +325,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Shinp%C5%ABren_Rebellion.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shinp%C5%ABren_Rebellion.jpg",
       "credit": "Tsukioka Yoshitoshi (1839–1892), 1876 / public domain",
-      "description": "Yoshitoshi's 1876 print of the Shinpūren (Divine Wind League) Rebellion in Kumamoto — the historical sword-bearing samurai uprising against Westernization that Isao reveres and consciously emulates in Runaway Horses.",
+      "description": "Yoshitoshi's 1876 print of the Shinpuren (Divine Wind League) Rebellion in Kumamoto -- a short-lived uprising of former samurai against the Meiji government's Westernization policies, particularly the prohibition on wearing swords in public. Relevant to: Runaway Horses.",
       "location_ref": ""
     },
     {
@@ -332,7 +338,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Repression_of_the_Shinpuren_rebellion.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Repression_of_the_Shinpuren_rebellion.jpg",
       "credit": "Anonymous, 1876 / public domain",
-      "description": "A contemporary painting depicting the suppression of the Shinpūren uprising — the doomed ultranationalist revolt whose tragic self-sacrifice is the explicit model for Runaway Horses.",
+      "description": "A contemporary painting depicting the suppression of the Shinpuren uprising by government forces. The rebellion lasted a single night in October 1876, ending in the deaths of most of the conspirators. Relevant to: Runaway Horses.",
       "location_ref": ""
     },
     {
@@ -345,10 +351,9 @@
       "url": "https://commons.wikimedia.org/wiki/File:Sinpuren_no_ran_Attack_on_Major_General_Taneda_Masaaki.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sinpuren_no_ran_Attack_on_Major_General_Taneda_Masaaki.jpg",
       "credit": "Anonymous Meiji print / public domain",
-      "description": "A nishikie depicting the rebels' night attack during the Shinpūren Rebellion — the historical event the dojo youths study in the 'League of the Divine Wind' chronicle within Runaway Horses.",
+      "description": "A nishikie (color woodblock print) depicting the rebels' night attack during the Shinpuren Rebellion of 1876. Relevant to: Runaway Horses.",
       "location_ref": ""
     },
-
     {
       "id": "bangkok-canal-1900s",
       "book": "temple-of-dawn",
@@ -359,7 +364,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Siam._Bangkok-Klong._Native_houses,_RP-F-F02691.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Siam._Bangkok-Klong._Native_houses,_RP-F-F02691.jpg",
       "credit": "Rijksmuseum / public domain",
-      "description": "Bangkok's network of klongs (canals) gave the city its old nickname 'Venice of the East.' This watery, lush cityscape is the backdrop for Honda's diplomatic stay in The Temple of Dawn.",
+      "description": "Bangkok's network of klongs (canals) gave the city its old nickname 'Venice of the East.' This Rijksmuseum photograph shows wooden houses and boat traffic along a central canal, c. 1900. Relevant to: The Temple of Dawn.",
       "location_ref": "wat-arun-bangkok"
     },
     {
@@ -372,7 +377,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Wat_Arun_or_the_Temple_of_Dawn_Photo_Don_Ramey_Logan.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wat_Arun_or_the_Temple_of_Dawn_Photo_Don_Ramey_Logan.jpg",
       "credit": "Don Ramey Logan / CC BY-SA 4.0",
-      "description": "The towering porcelain-encrusted prang of Wat Arun rises from the riverbank — the temple that gives the third novel its title, and the site of Honda's first encounter with Princess Ying Chan.",
+      "description": "Wat Arun (Temple of Dawn) -- a Buddhist temple on the west bank of the Chao Phraya River in Bangkok. Its central prang (tower) rises 70 metres and is encrusted with Chinese porcelain and colored glass. One of Bangkok's most recognizable landmarks. Relevant to: The Temple of Dawn.",
       "location_ref": "wat-arun-bangkok"
     },
     {
@@ -385,7 +390,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Wat_Benchamabophit_Dusitvanaram.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wat_Benchamabophit_Dusitvanaram.jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "Built of gleaming Carrara marble under King Chulalongkorn, this is one of Bangkok's most striking modern temples and part of the royal temple landscape Honda moves through during his stay.",
+      "description": "Wat Benchamabophit, the Marble Temple -- built under King Chulalongkorn (Rama V) at the turn of the 20th century using Carrara marble imported from Italy. One of the last major temples built in Bangkok before the modern era. Relevant to: The Temple of Dawn.",
       "location_ref": "thai-royal-palace-bangkok"
     },
     {
@@ -398,7 +403,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Reclining_Buddha_Wat_Pho.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reclining_Buddha_Wat_Pho.jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "One of Bangkok's oldest and largest temple complexes, home to the immense gold-leafed reclining Buddha — emblematic of the ornate Thai Buddhist architecture that fascinates and unsettles Honda.",
+      "description": "Wat Pho (Temple of the Reclining Buddha) -- one of Bangkok's oldest and largest temple complexes, home to a 46-metre gold-leafed reclining Buddha and the earliest center of public education in Thailand. Relevant to: The Temple of Dawn.",
       "location_ref": "wat-arun-bangkok"
     },
     {
@@ -411,7 +416,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Grand_Palace_Bangkok.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grand_Palace_Bangkok.jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "The glittering complex of spires and gilded roofs that housed the Thai royal family — the setting for Honda's audience with the young Princess Ying Chan and her royal cousins.",
+      "description": "The Grand Palace in Bangkok -- the official residence of the Thai royal family from 1782 until the early 20th century, containing throne halls, government buildings, and Wat Phra Kaew within its walled compound. Relevant to: The Temple of Dawn.",
       "location_ref": "thai-royal-palace-bangkok"
     },
     {
@@ -424,7 +429,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Life_on_the_Klongs,_or_canals,_of_Bangkok.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Life_on_the_Klongs,_or_canals,_of_Bangkok.jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "Laden cargo boats and wooden houses lining a Bangkok canal. The city's network of klongs functioned as streets, markets, and thoroughfares — Bangkok earned the name 'Venice of the East' from Western visitors who found the same watery, mercantile logic at work.",
+      "description": "Laden cargo boats and wooden houses lining a Bangkok canal. The city's network of klongs functioned as streets, markets, and thoroughfares -- earning Bangkok the nickname 'Venice of the East' from Western visitors. Relevant to: The Temple of Dawn.",
       "location_ref": "wat-arun-bangkok"
     },
     {
@@ -437,7 +442,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Khlong_Somdet_in_Bangkok_Photo_1907_J_Antonio.png",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Khlong_Somdet_in_Bangkok_Photo_1907_J_Antonio.png",
       "credit": "J. Antonio, 1907 / public domain",
-      "description": "A 1907 photograph of Khlong Somdet — one of Bangkok's main commercial canals, lined with houses on stilts and boat traffic. The canal system was the primary means of transport and trade in the city well into the twentieth century.",
+      "description": "A 1907 photograph of Khlong Somdet -- one of Bangkok's main commercial canals, lined with houses on stilts and boat traffic. The canal system was the primary means of transport and trade in the city well into the 20th century. Relevant to: The Temple of Dawn.",
       "location_ref": "wat-arun-bangkok"
     },
     {
@@ -450,7 +455,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Morning_at_jungle_river_(31393521341).jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Morning_at_jungle_river_(31393521341).jpg",
       "credit": "CC BY 2.0 / Wikimedia Commons",
-      "description": "Dense tropical riverine jungle of the kind that surrounds Bangkok and the Thai countryside — the lush, humid, overgrown world so different from the austere landscapes of the earlier volumes.",
+      "description": "Dense tropical riverine jungle characteristic of central Thailand -- the landscape surrounding Bangkok and the Thai countryside in the early 20th century. Relevant to: The Temple of Dawn.",
       "location_ref": "wat-arun-bangkok"
     },
     {
@@ -463,7 +468,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Benares_architecture_beside_Ganges_(c._1910).jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benares_architecture_beside_Ganges_(c._1910).jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "The crowded stone steps of Benares descending into the Ganges, where pilgrims bathe and the dead are cremated in full view — the vision of cyclical life and death that anchors Honda's journey to India.",
+      "description": "The stone ghats (stepped embankments) of Varanasi (Benares) descending to the Ganges, where Hindu pilgrims bathe, pray, and perform cremation rites along the riverbank. Varanasi is one of the holiest cities in Hinduism. Relevant to: The Temple of Dawn.",
       "location_ref": "benares-ganges"
     },
     {
@@ -476,7 +481,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Temple_of_the_Emerald_Buddha.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Temple_of_the_Emerald_Buddha.jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "Thailand's most sacred site, within the Grand Palace compound. Its inner gallery walls bear 178 panels of Ramakien murals (the Thai Ramayana). Honda passes through this world as a lawyer-tourist, unaware that Ying Chan's lineage connects to the Chakri dynasty who built it.",
+      "description": "Wat Phra Kaew (Temple of the Emerald Buddha), within the Grand Palace compound in Bangkok. The temple's inner gallery walls are lined with 178 panels of Ramakien murals -- the Thai adaptation of the Hindu Ramayana epic. Relevant to: The Temple of Dawn.",
       "location_ref": "thai-royal-palace-bangkok"
     },
     {
@@ -489,7 +494,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:104_Ramakien_Murals_(9148225737).jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/104_Ramakien_Murals_(9148225737).jpg",
       "credit": "CC BY 2.0 / Wikimedia Commons",
-      "description": "One panel from the 178-panel Ramakien gallery lining the cloister of Wat Phra Kaew. The Ramakien is the Thai adaptation of the Hindu Ramayana — the mythological world that underpins the royal culture Honda enters in Bangkok.",
+      "description": "One panel from the 178-panel Ramakien mural gallery at Wat Phra Kaew in Bangkok. The Ramakien is the Thai version of the Hindu Ramayana, and the murals depict battles, demons, and divine figures from the epic. Relevant to: The Temple of Dawn.",
       "location_ref": "thai-royal-palace-bangkok"
     },
     {
@@ -502,7 +507,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Garuda_Emblem_of_Thailand_(Gold).svg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Garuda_Emblem_of_Thailand_(Gold).svg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "The Garuda (Khrut) — mythological bird-vehicle of Vishnu in Hindu cosmology and the national emblem of Thailand. Honda sees it on temple pediments, royal seals, and government buildings throughout Bangkok. A constant reminder that the Thai state is a Hindu-Buddhist cosmological order, not a Western nation-state.",
+      "description": "The Garuda (Khrut in Thai) -- the mythological bird-vehicle of Vishnu in Hindu cosmology, and the national emblem of Thailand. It appears on royal seals, government buildings, and temple pediments throughout Bangkok. Relevant to: The Temple of Dawn.",
       "location_ref": "thai-royal-palace-bangkok"
     },
     {
@@ -515,7 +520,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Unknown_artist_-_The_Goddess_Kali_(recto),_Kali_Standing_on_Shiva_(verso)_-_2003.110_-_Cleveland_Museum_of_Art.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Unknown_artist_-_The_Goddess_Kali_(recto),_Kali_Standing_on_Shiva_(verso)_-_2003.110_-_Cleveland_Museum_of_Art.jpg",
       "credit": "Cleveland Museum of Art / CC0 public domain",
-      "description": "A Kalighat patachitra from Calcutta — the bold, confrontational folk-painting tradition of Bengal. Kali, goddess of death and time, presides over the Hindu religious world Honda encounters in Calcutta and Benares: death not as tragedy but as cosmic mechanism.",
+      "description": "A Kalighat patachitra -- a bold, flat style of folk painting originating in 19th-century Calcutta, made by artists near the Kalighat Kali temple. This image depicts Kali, the Hindu goddess of time and death. Relevant to: The Temple of Dawn.",
       "location_ref": "benares-ganges"
     },
     {
@@ -528,7 +533,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Murals_painting_at_Ajanta_caves_by_Shagil.jpeg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Murals_painting_at_Ajanta_caves_by_Shagil.jpeg",
       "credit": "Shagil Kannur / CC BY-SA 4.0",
-      "description": "The cave temples of Ajanta in Maharashtra, carved between the 2nd century BCE and 5th century CE, bear extraordinary murals of Jataka tales and Bodhisattvas. Honda's visit here — the site where accumulated philosophical reading crystallises into felt knowledge — is one of the novel's pivotal scenes.",
+      "description": "The cave temples of Ajanta in Maharashtra, carved between the 2nd century BCE and 5th century CE. The caves contain extraordinary Buddhist murals depicting Jataka tales -- stories of the Buddha's past lives -- and Bodhisattva figures in mineral pigment on plaster. Relevant to: The Temple of Dawn.",
       "location_ref": "benares-ganges"
     },
     {
@@ -541,7 +546,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Manikarnika_Ghat_in_Banaras_(Varanasi)_1905.png",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Manikarnika_Ghat_in_Banaras_(Varanasi)_1905.png",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "The principal cremation ground of Varanasi, burning continuously day and night. Honda watching bodies reduced to ash here is one of The Temple of Dawn's most important scenes — death as quotidian fact rather than sacred exception, and the scene where Buddhist theory meets concrete physical reality.",
+      "description": "Manikarnika Ghat -- the principal cremation ground of Varanasi, on the west bank of the Ganges. Cremations take place here continuously, day and night, and have done so for centuries. Relevant to: The Temple of Dawn.",
       "location_ref": "benares-ganges"
     },
     {
@@ -554,7 +559,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Imperial_Hotel_Wright_House.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Imperial_Hotel_Wright_House.jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "Frank Lloyd Wright's Imperial Hotel — its distinctive Mayan-inflected Oya-stone facade survived the 1923 earthquake and stood until 1968. Honda and Ying Chan dine here explicitly in the novel, in the novel's 1952 section: a monument to a Japan that survived catastrophe and remade itself under Western aesthetic influence.",
+      "description": "Frank Lloyd Wright's Imperial Hotel in Tokyo, completed 1923. Its distinctive Oya-stone facade and Mayan-influenced design is one of the notable works of early modern architecture in Japan. The building stood until 1968. Relevant to: The Temple of Dawn.",
       "location_ref": "gotemba-villa"
     },
     {
@@ -567,7 +572,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Fujisan_Hong%C5%AB_Sengen_Taisha_honden.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fujisan_Hong%C5%AB_Sengen_Taisha_honden.jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "The main sanctuary of Fujisan Hongū Sengen Taisha in Fujinomiya — the head shrine of all Sengen shrines, sitting at the base of Mount Fuji in old cedar forest. Honda's group visits 'the shrine of Mount Fuji' in the novel. Vermilion shrine buildings, the mountain directly above, the sacred cedar dark around them.",
+      "description": "The main sanctuary of Fujisan Hongu Sengen Taisha in Fujinomiya -- the head shrine of all Sengen shrines dedicated to the deity of Mount Fuji, set in ancient cedar forest at the mountain's base. Relevant to: The Temple of Dawn.",
       "location_ref": "gotemba-villa"
     },
     {
@@ -580,10 +585,9 @@
       "url": "https://commons.wikimedia.org/wiki/File:Hokusai42_fuji-lake.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hokusai42_fuji-lake.jpg",
       "credit": "Katsushika Hokusai, c. 1830–32 / The Met Open Access — CC0",
-      "description": "Fuji inverted in a lake at Misaka — from Hokusai's Thirty-six Views series. The reflected mountain, indistinguishable from the real one, resonates with the novel's central question: which of the lives Honda has witnessed is the reflection, and which the original?",
+      "description": "Mount Fuji inverted in a lake at Misaka Pass -- from Hokusai's Thirty-six Views of Mount Fuji series. The reflection renders the mountain as a perfect mirror image in the still water. Relevant to: The Temple of Dawn.",
       "location_ref": "gotemba-villa"
     },
-
     {
       "id": "mount-fuji-gotemba-area",
       "book": "temple-of-dawn",
@@ -594,10 +598,9 @@
       "url": "https://commons.wikimedia.org/wiki/File:View_towards_Mount_Fuji_from_Arakurayama_Sengen_Park_in_Fujiyoshida,_Yamanashi,_Japan,_2024_May_-_2.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/View_towards_Mount_Fuji_from_Arakurayama_Sengen_Park_in_Fujiyoshida,_Yamanashi,_Japan,_2024_May_-_2.jpg",
       "credit": "CC BY-SA / Wikimedia Commons",
-      "description": "The view of Fuji from the Gotemba plateau, where Honda builds the villa that becomes the stage for his obsessive watching of Ying Chan — and later, the central setting of The Decay of the Angel.",
+      "description": "The view of Mount Fuji from the Gotemba plateau on the mountain's southeastern flank, in Shizuoka Prefecture. Relevant to: The Temple of Dawn / The Decay of the Angel.",
       "location_ref": "gotemba-villa"
     },
-
     {
       "id": "peacock-gold-sutra",
       "book": "temple-of-dawn",
@@ -608,7 +611,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:An_Upanishad_embedded_in_Sama_Veda,_Sanskrit_manuscript_in_Thrissur_Hindu_monastery,_Malayalam_script_-_1.jpg",
       "image_url": "",
       "credit": "Buddhist scripture — public domain",
-      "description": "A protective Mahayana text centred on Mahāmayūrī — the Great Peacock Wisdom Queen, four-armed, seated on a peacock. Honda reads it as part of his investigation into karmic protection and reincarnation. The sutra's central parable: a golden peacock king who loses his protection through forgetfulness and is captured by hunters — an allegory for Honda's own lapse into voyeurism.",
+      "description": "A protective Mahayana text centered on Mahamayuri -- the Great Peacock Wisdom Queen, a Bodhisattva depicted four-armed and seated on a peacock. The text contains dharani (protective spells) and a central parable of a golden peacock king who loses his protective power through forgetfulness. Relevant to: The Temple of Dawn.",
       "location_ref": ""
     },
     {
@@ -621,7 +624,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:1407_CE,_Manava-nyaya-sastra-tika_Hindu_law_text_and_commentary,_palm_leaf_manuscript,_Sanskrit,_Bhujimol_script,_Malla_kingdom.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/1407_CE,_Manava-nyaya-sastra-tika_Hindu_law_text_and_commentary,_palm_leaf_manuscript,_Sanskrit,_Bhujimol_script,_Malla_kingdom.jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "The foundational Sanskrit text of Hindu dharma — caste, karma, cosmology, and the ordering of lives across rebirths. Honda works through it alongside Buddhist texts to map the Hindu theory of transmigration against the Theravāda framework he encountered in Thailand. The two systems converge on the fact of rebirth but diverge sharply on whether anything substantial survives the crossing.",
+      "description": "The Manusmrti -- the foundational Sanskrit text of Hindu dharma, codifying caste duties, karma, and the ordering of lives. Composed between the 2nd century BCE and 3rd century CE. Relevant to: The Temple of Dawn.",
       "location_ref": ""
     },
     {
@@ -634,7 +637,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Vedas_palm_leaf_manuscript,_Tamil_Grantha_Script,_Sanskrit,_Tamil_Nadu.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vedas_palm_leaf_manuscript,_Tamil_Grantha_Script,_Sanskrit,_Tamil_Nadu.jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "A Theravāda text recording exchanges between the Greek king Menander (Milinda) and the monk Nāgasena on whether a continuous self transmigrates or only a stream of moments. The philosophical core of Honda's obsession. Nāgasena's lamp-flame analogy — one flame lighting another, neither identical nor wholly separate — is the closest the tradition comes to answering him.",
+      "description": "A Theravada text (the Milindapanha) recording philosophical exchanges between the Greek king Menander (Milinda) and the monk Nagasena on questions of karma, rebirth, and the nature of the self. Nagasena's lamp-flame analogy -- one flame lighting another without being identical -- is one of Buddhism's most cited illustrations of transmigration without a permanent soul. Relevant to: The Temple of Dawn.",
       "location_ref": ""
     },
     {
@@ -647,7 +650,7 @@
       "url": "https://commons.wikimedia.org/wiki/File:Campanellae_Civitas_Solis.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Campanellae_Civitas_Solis.jpg",
       "credit": "Public domain / Wikimedia Commons",
-      "description": "A perfect city organised around solar worship, communal rational order, and the elimination of private desire — written by Campanella while imprisoned by the Inquisition. Honda reads it as a counterpoint to everything his life has become: where Campanella's citizens are arranged in concentric circles of pure reason, Honda is crouched at a peephole in the wall of his own villa in Minami Daira.",
+      "description": "A utopian treatise by Tommaso Campanella, written while imprisoned by the Spanish Inquisition (1602). Describes an ideal city-state organized around solar worship, communal ownership, and rational order -- one of the key texts of early modern European utopian thought. Relevant to: The Temple of Dawn.",
       "location_ref": ""
     },
     {
@@ -660,10 +663,9 @@
       "url": "https://commons.wikimedia.org/wiki/File:Elemosina_di_san_Rocco_-_Annibale_Carracci.jpg",
       "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Elemosina_di_san_Rocco_-_Annibale_Carracci.jpg",
       "credit": "Annibale Carracci, 1595 / public domain",
-      "description": "St. Roch distributes coins to plague victims on the steps below him — the saint present in the suffering, touching it. Honda references this painting as an image of charity he cannot enact: he watches, observes, and occasionally distributes money, but never enters the suffering he surveys. The painting is the indictment.",
+      "description": "Annibale Carracci's painting of St. Roch distributing alms to plague victims, c. 1595. St. Roch is the patron saint of plague sufferers; Carracci depicts him present among the sick, distributing coins on the steps below him. Relevant to: The Temple of Dawn.",
       "location_ref": ""
     },
-
     {
       "id": "genji-album-illustrations-edo",
       "book": "spring-snow",
@@ -703,6 +705,5 @@
       "description": "A digitized Edo-period printed edition of the Tale of Genji from the Smithsonian's open-access collection — a primary-source manifestation of the classical text underpinning Spring Snow.",
       "location_ref": ""
     }
-
   ]
 }
