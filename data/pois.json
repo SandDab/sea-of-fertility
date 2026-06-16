@@ -249,6 +249,36 @@
       "description": "Karuizawa -- a mountain resort town in Nagano Prefecture, popular as a summer retreat for Tokyo's wealthy since the Meiji era. Relevant to: The Temple of Dawn."
     },
     {
+      "id": "ajanta-caves",
+      "name": "Ajanta Caves, Maharashtra",
+      "name_ja": "アジャンター石窟群",
+      "book": "temple-of-dawn",
+      "lat": 20.5519,
+      "lng": 75.7033,
+      "type": "shrine",
+      "description": "The Buddhist cave temples of Ajanta in Maharashtra -- carved into a horseshoe-shaped cliff between the 2nd century BCE and 5th century CE. The caves contain extraordinary murals depicting Jataka tales and Bodhisattva figures. A UNESCO World Heritage Site. Relevant to: The Temple of Dawn."
+    },
+    {
+      "id": "calcutta-india",
+      "name": "Calcutta (Kolkata)",
+      "name_ja": "カルカッタ",
+      "book": "temple-of-dawn",
+      "lat": 22.5726,
+      "lng": 88.3639,
+      "type": "city",
+      "description": "Calcutta (now Kolkata) -- the capital of British India and the largest city in the subcontinent during the colonial era. The Kalighat Kali temple, one of the most important Shakti shrines in Hinduism, is located in the south of the city. Relevant to: The Temple of Dawn."
+    },
+    {
+      "id": "imperial-hotel-tokyo",
+      "name": "Imperial Hotel, Tokyo",
+      "name_ja": "帝国ホテル",
+      "book": "temple-of-dawn",
+      "lat": 35.6717,
+      "lng": 139.7585,
+      "type": "residence",
+      "description": "Frank Lloyd Wright's Imperial Hotel -- completed 1923, located between Hibiya Park and the Imperial Palace. Its distinctive Oya-stone facade survived the 1923 Great Kanto Earthquake. The building stood until 1968. Relevant to: The Temple of Dawn."
+    },
+    {
       "id": "mio-signal-station",
       "name": "Mio Signal Station, Shimizu",
       "name_ja": "三保の信号所",

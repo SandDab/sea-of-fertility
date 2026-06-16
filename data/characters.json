@@ -50,6 +50,19 @@
         "ise-jingu",
         "mihonomatsubara"
       ]
+    },
+    {
+      "id": "ying-chan",
+      "name": "Princess Ying Chan",
+      "name_ja": "月光姫",
+      "color": "#8b5e3c",
+      "path": [
+        "thai-royal-palace-bangkok",
+        "wat-arun-bangkok",
+        "imperial-hotel-tokyo",
+        "karuizawa",
+        "gotemba-villa"
+      ]
     }
   ]
 }
